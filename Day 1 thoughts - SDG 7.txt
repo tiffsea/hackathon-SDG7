@@ -1,0 +1,35 @@
+--- Pre processing ---
+Getting Key Words:
+	- Select x 'gold-standard' papers for each target (based on the relevant audience)
+	- Apply TF-IDF onto a large dataset (From vaugely-relevant papers (selected from a selection of journals))
+	- Look at the TF-IDF weightings for the most important words within each of these 'gold-standard' papers
+
+	- Select x 'gold-standard' papers for each target
+	- find popular unigram/bigram/trigrams among these papers
+
+Effect of Lemmatization?
+Effect of Removing Stopwords?
+
+
+--- Models ---
+Pretrained classifier:
+	
+Topic Models:
+	1. Apply Topic Modelling to Papers - Identify what documents have 'relevant' topics
+	2. Apply Topic Modelling AGAIN to these to see if we can deduce any 'sub topics'
+		- Are these more relevant to the goals?
+
+Unsupervised models:
+- Clustering (KMeans/Spectral/Agglomerative) (What group do 'gold-standard' papers belong in?)
+
+
+
+--- Evaluation ---
+Choose 'gold-standard' papers and see how they perform in the model
+Choose 'irrelevant' papers and see how they perform in the model
+
+	- Create a collection of papers with both bad and good papers related to SDG 7
+	- Spend time rating them individually
+	- Produce a confidence value for the paper
+	- See where it places in the model 
+
