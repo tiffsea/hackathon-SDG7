@@ -39,3 +39,7 @@ https://app.slack.com/client/T017N7JG7JQ/C017ULZ0WAD
 - Shared folder: https://sussex.box.com/s/mvj6ffs1sbre1y64drg92yle025x6dlz
 - HackMD: https://hackmd.io/JRwBajagRTiEbgjVf0vltw
 - Resources: https://sussex.box.com/s/5e4930lgph9m9kw8r9hvo1k73apuo0i9
+
+### resources:
+- git commands: https://www.youtube.com/watch?v=LwtsisZohCg
+- pull requests: https://www.youtube.com/watch?v=kbCjozPDb8g
